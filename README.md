@@ -3,7 +3,7 @@ An Aspiring Data Scientist
 
 # Education
 * Data Science Immersive Source, General Assembly, Sydney, 2021
-* Data Science Immersive Source, General Assembly, Sydney, 2021
+* Azure Fundamentals, Microsoft, 2021
 * Bachelors of Engineering, Dr BAMU India, 2002
 
 # [Project 1: Women Returners Across Australia](http://youtube.com/dataprofessor)
