@@ -25,7 +25,7 @@ This project makes use of ***Logistic Classifier*** of sci-kit learn libraries c
 * **Output:** High paying salary bands, Important Skills  
 
 # [Project 3: Property Sale Price Analysis](http://youtube.com/dataprofessor)
-![alt text](SydneyJobsTrend.png)
+![alt text](HouseWithKey.jpg)
 
 This project makes use of ***Logistic regression*** coupled with ***Feature engineering*** to predict the Sales price of the property.
 * **Python libraries used:** Python
