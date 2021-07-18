@@ -5,8 +5,8 @@
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+# [Project 1: Women Returners Across Australia](http://youtube.com/dataprofessor)
+![alt text](linkedin-sales-solutions-46bom4lObsA-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
@@ -15,8 +15,8 @@ This project integrates various news source for performing sentiment analysis pe
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+# [Project 2: Seek Jobs Analysis](http://youtube.com/dataprofessor)
+![alt text](SydneyJobsTrend.png)
 
 Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
