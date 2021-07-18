@@ -17,7 +17,7 @@ This project predicts women looking for work and studies the impacting character
 * **Output:** Percentage of women looking for work
 
 # [Project 2: Seek Jobs Analysis](http://youtube.com/dataprofessor)
-![alt text](SydneyJobsTrend.png)
+![alt text](SeekLogo.png)
 
 This project makes use of ***Logistic Classifier*** of sci-kit learn libraries coupled with ***Web scraping*** in the trading of cryptocurrencies.
 * **Python libraries used:** Scrapy, Pandas
