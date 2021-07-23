@@ -1,5 +1,5 @@
 # Swati Kute
-An Aspiring Data Scientist 
+An Aspiring Junior Data Scientist 
 
 # Education
 * Data Science Immersive Source, General Assembly, Sydney, 2021
